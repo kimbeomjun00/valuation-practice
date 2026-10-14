@@ -44,5 +44,3 @@
 This private repository is an archive of exploratory public-equity valuation workbooks for CORZ, NBIS, SE, WULF, and YPF. Outputs should be read as **model-implied values or valuation ranges conditional on stated assumptions**, not as objective fair values, guaranteed forecasts, or investment recommendations.
 
 Method labels such as DCF, SOTP, rNAV, or multiples should be used only where the relevant workbook actually implements that method. A price target should also state its as-of date, horizon, catalysts, and key risks; otherwise, `model-implied valuation estimate` is the preferred term.
-
-
